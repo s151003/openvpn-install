@@ -1,4 +1,4 @@
-`wget https://raw.githubusercontent.com/Nyr/openvpn-install/master/openvpn-install.sh && chmod 777 openvpn-install.sh && bash openvpn-install.sh`
+`wget https://raw.githubusercontent.com/s151003/openvpn-install/master/openvpn-install.sh && chmod 777 openvpn-install.sh && bash openvpn-install.sh`
 
 ## openvpn-install
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Debian, Ubuntu and CentOS.
